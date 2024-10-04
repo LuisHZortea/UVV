@@ -25,10 +25,10 @@
 
 ## Modelo Conceitual
 
-![Modelo Conceitual](https://github.com/LuisHZortea/Banco_de_Dados_I/blob/main/Trabalho/modelo_conceitual.png)
+![Modelo Conceitual](https://github.com/LuisHZortea/UVV/blob/main/Banco_de_Dados_I/Trabalho/modelo_conceitual.png)
 
 - O SGBD utilizado foi o MySQL/MariaDB.
 
 ## Projeto Lógico
 
-![Projeto Lógico](https://github.com/LuisHZortea/Banco_de_Dados_I/blob/main/Trabalho/projeto_lógico.png)
+![Projeto Lógico](https://github.com/LuisHZortea/UVV/blob/main/Banco_de_Dados_I/Trabalho/projeto_l%C3%B3gico.png)
