@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>RollDicer</title>
+  <link href="style.css" rel="stylesheet"/>
+</head>
+<body>
+  <h1>RollDicer 1.1</h1>
+  <div>
+    <label for="dn">Qtd. Dices</label>
+    <input id="dn" type="number" value="1" min="1">
+  </div>
+  <div>
+    <p>Dice</p>
+    <input id="d4" type="radio" name="faces" value="4">
+    <label for="d4">D4</label><br>
+    <input id="d10" type="radio" name="faces" value="10">
+    <label for="d10">D10</label><br>
+    <input id="d20" type="radio" name="faces" value="20" checked>
+    <label for="d20">D20</label><br>
+  </div>
+  <button onclick="rolar()">Roll</button>
+  <div>
+    <div id="res">???</div>
+    <div id="rolagens"></div>
+  </div>
+  
+  <script src="script.js"></script>
+</body>
+</html>
